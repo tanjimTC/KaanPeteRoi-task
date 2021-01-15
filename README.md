@@ -4,9 +4,9 @@
 
 ### To run the code, You need to clone or download this repo on your computer.
 
-### After you donwloaded or cloned, Open the folder in your favourite code editor and run the command "npm install" to install all the dependencies needed for this project.
+### After you download or cloned, Open the folder in your favorite code editor and run the command "npm install" to install all the dependencies needed for this project.
 
-### After installing the dependencies run the commad "node app.js" to run the code and see the output!
+### After installing the dependencies run the command "node app.js" to run the code and see the output!
 
 ## List of dependencies/npm packages used for this task :-
 
