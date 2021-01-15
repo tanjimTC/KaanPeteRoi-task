@@ -1,6 +1,6 @@
 # KaanPeteRoi-task
 
-### You need to have node installed on your system to run this project.
+### You need to have [node] installed on your system to run this project.
 
 ### To run the code, You need to clone or download this repo on your computer.
 
@@ -15,3 +15,4 @@
 
 [csvtojson]: https://www.npmjs.com/package/csvtojson
 [csv-writer]: https://www.npmjs.com/package/csv-writer
+[node]: https://nodejs.org/en/
